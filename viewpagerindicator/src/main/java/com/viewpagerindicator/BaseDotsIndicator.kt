@@ -11,7 +11,6 @@ import android.widget.FrameLayout
 import android.widget.ImageView
 import androidx.viewpager.widget.ViewPager
 import androidx.viewpager2.widget.ViewPager2
-import com.tbuonomo.viewpagerdotsindicator.OnPageChangeListenerHelper
 
 abstract class BaseDotsIndicator @JvmOverloads constructor(
     context: Context,

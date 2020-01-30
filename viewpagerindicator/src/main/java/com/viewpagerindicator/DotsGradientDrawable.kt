@@ -1,4 +1,4 @@
-package com.tbuonomo.viewpagerdotsindicator
+package com.viewpagerindicator
 
 import android.graphics.drawable.GradientDrawable
 

@@ -1,4 +1,4 @@
-package com.tbuonomo.viewpagerdotsindicator
+package com.viewpagerindicator
 
 import android.animation.ArgbEvaluator
 import android.content.Context
@@ -11,7 +11,6 @@ import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.RelativeLayout
-import com.viewpagerindicator.BaseDotsIndicator
 import com.viewpagerindicator.BaseDotsIndicator.Type.DEFAULT
 
 class DotsIndicator @JvmOverloads constructor(
